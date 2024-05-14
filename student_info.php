@@ -30,6 +30,5 @@ if ($conn->query($sql) === TRUE) {
 
 $conn->close();
 ?>
-    <p><a href="home.php">Back to Home</a></p>
 </body>
 </html>
